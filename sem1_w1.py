@@ -5,4 +5,4 @@ final_exam_score = float(input("Enter your exam score: "))
 
 final_grade = 0.4 * coursework_score + 0.6 * final_exam_score
 
-print("Your final grade is ", final_grade) 
+print("Your final grade is ", final_grade)
